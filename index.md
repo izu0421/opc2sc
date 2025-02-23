@@ -1,6 +1,5 @@
-# Supplementary Data
+## Supplementary Data and script for our OPC to Schwann cell transdifferentiation manuscript 
 
-## Manuscript title: "Environmental signals induece OPC to Schwann cell transdifferentiation"
 Civia Z Chen, Yizhou Yu, ..., Björn Neumann, Robin Franklin <br>
 
 University of Cambridge / Altos labs
