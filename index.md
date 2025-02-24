@@ -27,13 +27,13 @@ Cell states (also referred to as cell types) were annotated based on the regress
 4. [TF plot](https://www.yizhouyu.com/opc2sc/scripts/4_2_invivo_circle_plot_TFs.html)
 
 ### Section 3. Preprocessing and analysis of BMP-treated OPCs
-1. [Preprocessing and QC](https://www.yizhouyu.com/opc2sc/0_3_invitro_BMP4_QC.html)
-2. [RNA velocity analysis](https://www.yizhouyu.com/opc2sc/3_1_1_invitro_scvelo_BMP4.html)
+1. [Preprocessing and QC](https://www.yizhouyu.com/opc2sc/scripts/0_3_invitro_BMP4_QC.html)
+2. [RNA velocity analysis](https://www.yizhouyu.com/opc2sc/scripts/3_1_1_invitro_scvelo_BMP4.html)
 3. [Cell fate mapping via cellrank](https://www.yizhouyu.com/scripts/opc2sc/3_3_1_invitro_cellrank_BMP4.html)
-4. [Enrichment plot](https://www.yizhouyu.com/opc2sc/scripts/4_3_invitro_BMP_circle_plot_enrichment.html)
+4. [Enrichment plot](https://www.yizhouyu.com/opc2sc/scripts/scripts/4_3_invitro_BMP_circle_plot_enrichment.html)
 5. [TF plot](https://www.yizhouyu.com/opc2sc/scripts/4_4_invitro_BMP_circle_plot_TFs.html)
 
 ### Section 4. Preprocessing and analysis of OPCs that were infected with the Sox10 overexpression and Olig2 shRNA lentiviruses
-1. [Preprocessing and QC](https://www.yizhouyu.com/opc2sc/0_4_invitro_TF_QC.html)
-2. [RNA velocity analysis](https://www.yizhouyu.com/opc2sc/3_1_2_invitro_scvelo_TF.html)
-3. [Cell fate mapping via cellrank](https://www.yizhouyu.com/opc2sc/3_3_2_invitro_cellrank_TF.html)
+1. [Preprocessing and QC](https://www.yizhouyu.com/opc2sc/scripts/0_4_invitro_TF_QC.html)
+2. [RNA velocity analysis](https://www.yizhouyu.com/opc2sc/scripts/3_1_2_invitro_scvelo_TF.html)
+3. [Cell fate mapping via cellrank](https://www.yizhouyu.com/opc2sc/scripts/3_3_2_invitro_cellrank_TF.html)
