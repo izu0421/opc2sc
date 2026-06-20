@@ -37,11 +37,29 @@ This repository contains Jupyter notebooks for the analysis presented in our man
 
 ## System Requirements
 
-- **Python:** 3.8+
-- **Jupyter:** For running notebooks
-- **Key packages:** scanpy, anndata, pandas, numpy, matplotlib, scvelo, cellrank
+### Operating Systems
+- macOS 10.14+
+- Linux (Ubuntu 18.04+, CentOS 7+)
+- Windows 10/11 (with WSL2)
+
+### Python & Dependencies
+- **Python:** 3.9, 3.10, 3.11 (tested on 3.10)
+- **jupyter:** ≥1.0.0
+- **scanpy:** ≥1.9.0
+- **anndata:** ≥0.9.0
+- **pandas:** ≥1.5.0
+- **numpy:** ≥1.23.0
+- **matplotlib:** ≥3.6.0
+- **scipy:** ≥1.9.0
+- **scikit-learn:** ≥1.2.0
+- **seaborn:** ≥0.12.0
+- **scvelo:** ≥0.2.4
+- **cellrank:** ≥1.4.0
+
+### Hardware Requirements
 - **RAM:** 8GB minimum (16GB recommended)
 - **Disk:** 20GB+ for data and dependencies
+- **Processor:** 4+ cores recommended
 
 ---
 
