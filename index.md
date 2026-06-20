@@ -4,6 +4,15 @@ Civia Z Chen, Yizhou Yu, ..., Björn Neumann, Robin Franklin <br>
 
 University of Cambridge / Altos labs
 
+---
+
+## Overview
+
+This repository contains Jupyter notebooks for reproducing the analysis presented in *Environmental signals suppress Olig2 during OPC to Schwann cell transdifferentiation during injury in the CNS*. The notebooks cover single-cell RNA-seq preprocessing, cell state annotation, trajectory analysis, RNA velocity, and cell fate mapping.
+
+**For system requirements, installation instructions, and detailed usage guide, see the [GitHub README](https://github.com/izu0421/opc2sc/blob/main/README.md).**
+
+---
 
 ### Section 1. Preprocessing of OPCs during injury and in controls
 
