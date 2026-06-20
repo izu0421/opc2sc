@@ -35,13 +35,6 @@ This repository contains Jupyter notebooks for the analysis presented in our man
 
 ---
 
-## System Requirements
-
-### Operating Systems
-- macOS 10.14+
-- Linux (Ubuntu 18.04+, CentOS 7+)
-- Windows 10/11 (with WSL2)
-
 ### Python & Dependencies
 - **Python:** 3.9, 3.10, 3.11 (tested on 3.10)
 - **jupyter:** ≥1.0.0
@@ -55,11 +48,6 @@ This repository contains Jupyter notebooks for the analysis presented in our man
 - **seaborn:** ≥0.12.0
 - **scvelo:** ≥0.2.4
 - **cellrank:** ≥1.4.0
-
-### Hardware Requirements
-- **RAM:** 8GB minimum (16GB recommended)
-- **Disk:** 20GB+ for data and dependencies
-- **Processor:** 4+ cores recommended
 
 ---
 
