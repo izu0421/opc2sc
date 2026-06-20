@@ -1,7 +1,15 @@
-## Repository for our manuscript titled *Environmental signals suppress Olig2 during OPC to Schwann cell transdifferentiation during injury in the CNS*
+## Extrinsic cues unlock cross-germ layer differentiation potential of CNS stem cells during regeneration
 
-**Authors:** Civia Z Chen, Yizhou Yu, ..., Björn Neumann, Robin Franklin  
-**Affiliation:** University of Cambridge / Altos Labs
+**Authors:**  
+Civia Z. Chen<sup>1,2,3</sup>, Yizhou Yu<sup>2,4</sup>, Natalia Murphy<sup>2,5</sup>, Juan F. Cubillos<sup>2,3</sup>, Khalil S. Rawji<sup>1,2,3</sup>, Chao Zhao<sup>1,2,3</sup>, Myfanwy Hill<sup>2,3</sup>, Peter Arthur-Farraj<sup>3,6</sup>, Robin J.M. Franklin<sup>1,2,3*</sup>, Björn Neumann<sup>1,2,3*</sup>
+
+**Affiliations:**
+<sup>1</sup> Altos Labs Cambridge Institute, Granta Park, Cambridge UK  
+<sup>2</sup> Wellcome-MRC Cambridge Stem Cell Institute, University of Cambridge, UK  
+<sup>3</sup> Department of Clinical Neurosciences, University of Cambridge, UK  
+<sup>4</sup> Healthspan Biotics Ltd, Milner Therapeutics Institute, Cambridge, UK  
+<sup>5</sup> Department of Veterinary Medicine, University of Cambridge, UK  
+<sup>6</sup> Blizard Institute, Queen Mary University of London, UK
 
 ---
 
