@@ -104,6 +104,8 @@ Each notebook contains the complete analysis pipeline and can be run independent
 
 OPC RNA-seq data (sequencing runs SLX-11517 to SLX-11523, with HTSeq count tables and alignment/counting scripts) are archived on Zenodo in two parts: [part 1/2](https://doi.org/10.5281/zenodo.23398977) (doi:10.5281/zenodo.23398977) and [part 2/2](https://doi.org/10.5281/zenodo.23399474) (doi:10.5281/zenodo.23399474).
 
+Reads were aligned with GSNAP to the Ensembl rat reference genome Rnor_6.0, release 88 (Rattus_norvegicus.Rnor_6.0.dna.toplevel.fa; https://ftp.ensembl.org/pub/release-88/fasta/rattus_norvegicus/dna/), with ERCC92 spike-in sequences appended; gene annotation: Rattus_norvegicus.Rnor_6.0.88_ERCC92.gtf (included in analysis.tar).
+
 ---
 
 ## Citation
